@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebScraper",
+    "\\WebScraper\\WebScraper",
+    "\\WebScraper\\WebScraper\\bin",
+    "\\WebScraper\\WebScraper\\bin\\Debug",
+    "\\WebScraper\\WebScraper\\bin\\Debug\\net8.0",
+    "\\WebScraper\\WebScraper\\bin\\Debug\\net8.0\\Data"
+  ],
+  "SelectedNode": "\\WebScraper\\WebScraper\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
